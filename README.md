@@ -1,12 +1,13 @@
-Hello! I am Chánh, and I'm from Vietnam. I am the owner of the website: chanhlt.com.My passion is technology. I also enjoy visiting attractive destinations. Some sports I often participate in are cycling, running, and badminton. Sometimes, I also write updates about my daily life. I focus on "Learning, Acknowledging, and Improving" experiences and skills in both professional and personal life.
+Dịch sang tiếng Anh: Xin chào! Tôi là Chánh, tôi đến từ Việt Nam. Tôi là chủ nhân Website: chanhlt.com. Tôi có luôn đam mê và tìm hiểu về công nghệ, tôi cũng thích ghé những điểm đến hấp dẫn. Một số môn thể thao tôi thường tham gia là: Đạp xe, chạy bộ và cầu lông. Đôi lúc tôi cũng có những bài viết cập nhật cuộc sống thường ngày và một số ảnh chụp linh tinh. Tôi chú trọng "Học hỏi, Ghi nhận, và Cải thiện" các kinh nghiệm, kỹ năng về chuyên môn cũng như đời sống. Cảm ơn các bạn đã ghé thăm. Các danh mục tôi viết: Đi Phú Yên, Microsoft, AWS, VMware, Linux,... Các tiện ích nhanh của tôi: giá vàng, Email liên hệ của tôi: chanhlt@gmail.com Kết nối với tôi qua: X, Linkedin, Telegram, Email, Phone
+Here is the translation into English:
 
-Thank you for visiting.
+Hello! I am Chánh, and I'm from Vietnam. I am the owner of the website: chanhlt.com.I have always been passionate about and interested in technology, and I also enjoy visiting attractive destinations. Some sports I often participate in are cycling, running, and badminton. Sometimes, I also write updates about my daily life and take random photos. I focus on "Learning, Acknowledging, and Improving" experiences and skills in both professional and personal life. Thank you for visiting.
 
-You can reach me via email: chanhlt@gmail.com
+Categories I write about: Traveling to Phú Yên, Microsoft, AWS, VMware, Linux,...
 
-Categories I write about: Traveling to Phú Yên, Microsoft, AWS, VMware, Linux, ...
+Quick utilities I offer: gold prices,
 
-Connect with me via: X, Linkedin, Telegram, Email, Phone
+You can reach me via email: chanhlt@gmail.com Connect with me via: X, Linkedin, Telegram, Email, Phone
 
 👋 Hi, I’m @chanhlt. I'm from VietNam.
 - 👀 I’m interested in ...
