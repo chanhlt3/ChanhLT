@@ -38,4 +38,4 @@
     border-radius: 5px;
     padding: 6px 18px;line-height: 50px;" >admin@chanhlt.com</a> 
     
-Community: <a href="https://answers.microsoft.com/en-us">Microsoft Support Community/a>, <a href="https://techcommunity.microsoft.com">Microsoft Community Hub/a>, <a href="https://community.spiceworks.com">Spiceworks Community/a> 
+Community: <a href="https://answers.microsoft.com/en-us">Microsoft Support Community</a>, <a href="https://techcommunity.microsoft.com">Microsoft Community Hub</a>, <a href="https://community.spiceworks.com">Spiceworks Community</a> 
