@@ -11,7 +11,7 @@
 
 🔖Categories I write about: Traveling to Phú Yên, Microsoft, AWS, VMware, Linux,...
 
-👉Quick access: <a href="https://login.microsoftonline.com">Microsoft 365 Login</a>, <a href="https://login.microsoftonline.com">Azure</a>
+👉Quick access: <a href="https://admin.microsoft.com">Microsoft 365 admin center</a>, <a href="https://portal.azure.com">Azure</a>, <a href="https://security.microsoft.com">Microsoft Defender</a>, <a href="https://purview.microsoft.com">Microsoft Purview</a>, <a href="https://intune.microsoft.com">Microsoft Intune admin center</a>, <a href="https://entra.microsoft.com">Microsoft Entra admin center</a>, <a href="https://admin.exchange.microsoft.com">Exchange admin center</a>, <a href="https://admin.microsoft.com">SharePoint admin center</a>, <a href="https://admin.teams.microsoft.com">Microsoft Teams admin center</a>
 
 - <a href="https://www.mihong.vn/vi/gia-vang-trong-nuoc">Gold prices</a>
 
