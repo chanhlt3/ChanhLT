@@ -43,5 +43,5 @@
     padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Youtube</a> <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Email</a> 
+    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Email: admin@chanhlt.com</a> 
     
