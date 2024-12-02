@@ -20,23 +20,23 @@
 ℹ️Connect with me via: <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Facebook</a> <a href="#" style="color: #fff;
-    background-color: #04AA6D !important;
+    padding: 6px 18px;line-height: 50px;">Facebook</a> <a href="#" style="color: #fff;
+    background-color: #4267B2 !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Telegram</a> <a href="#" style="color: #fff;
-    background-color: #04AA6D !important;
+    padding: 6px 18px;line-height: 50px;">Telegram</a> <a href="#" style="color: #fff;
+    background-color: #24A1DE !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">X</a> <a href="#" style="color: #fff;
-    background-color: #04AA6D !important;
+    padding: 6px 18px;line-height: 50px;">X</a> <a href="#" style="color: #fff;
+    background-color: #14171A !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Github</a> <a href="#" style="color: #fff;
-    background-color: #04AA6D !important;
+    padding: 6px 18px;line-height: 50px;" >Github</a> <a href="#" style="color: #fff;
+    background-color: #1f2328 !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Linkedin</a> <a href="#" style="color: #fff;
-    background-color: #04AA6D !important;
+    padding: 6px 18px;line-height: 50px;" >Linkedin</a> <a href="#" style="color: #fff;
+    background-color: #0A66C2 !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Youtube</a> <a href="#" style="color: #fff;
-    background-color: #04AA6D !important;
+    padding: 6px 18px;line-height: 50px;">Youtube</a> <a href="#" style="color: #fff;
+    background-color: #0067b8 !important;
     border-radius: 5px;
     padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">admin@chanhlt.com</a> 
     
