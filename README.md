@@ -43,4 +43,7 @@
 <button type="button" class="btn btn-primary btn-sm">Small button</button>
 
 
-<a href="#" class="fa fa-facebook">facebook</a>
+<a href="#" style="color: #fff;
+    background-color: #04AA6D !important;
+    border-radius: 5px;
+    padding: 6px 18px;" class="fa fa-facebook">facebook</a>
