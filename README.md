@@ -9,7 +9,7 @@
 
 👏Thank you for visiting.
 
-🌐Tools I frequently use: <a href="https://www.mihong.vn/vi/gia-vang-trong-nuoc">Gold prices</a>, <a href="https://learn.microsoft.com/en-us/training/">Microsoft Learn</a>
+🌐Tools I frequently use: <a href="https://www.mihong.vn/vi/gia-vang-trong-nuoc">Gold prices</a>, <a href="https://learn.microsoft.com/en-us/training/">Microsoft Learn</a>, <a href="https://github.com/chanhlt3/download/tree/main/Microsoft%20Office">Microsoft Office</a>, <a href="https://github.com/chanhlt3/download/tree/main/Windows">Windows</a>
 
 🔖Categories I write about: **<a href="#">Photo</a>**, **<a href="#">Traveling to Phu Yen</a>**, <a href="#">Microsoft</a>, <a href="#">Linux</a>, <a href="#">Cisco</a>, <a href="#">AWS</a>, <a href="#">Virtualization</a>, <a href="#">Database</a>, <a href="#">Hardware</a>, **<a href="#">Downloads</a>**
 
