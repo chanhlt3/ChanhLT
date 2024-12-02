@@ -11,8 +11,8 @@
 
 🔖Categories I write about: Traveling to Phú Yên, Microsoft, AWS, VMware, Linux,...
 
-👉Quick utilities I offer: 
-- <a href="#">Microsoft 365 Login</a>
+👉Quick access: <a href="https://login.microsoftonline.com">Microsoft 365 Login</a>, <a href="https://login.microsoftonline.com">Azure</a>
+
 - <a href="https://www.mihong.vn/vi/gia-vang-trong-nuoc">Gold prices</a>
 
 ✅My destination:<a href="#"> CCNA</a>, <a href="#"> AZ-104, AZ-800, AZ-801, MS-900, MD-100, MS-700, AZ-305, MS-102 </a>, <a href="#"> SAA-C03</a>
