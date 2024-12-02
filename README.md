@@ -34,23 +34,23 @@
 <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Facebook</a> <a href="#" style="color: #fff;
+    padding: 6px 18px;line-height: 30px;" class="fa fa-facebook">Facebook</a> <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Telegram</a> <a href="#" style="color: #fff;
+    padding: 6px 18px;line-height: 30px;" class="fa fa-facebook">Telegram</a> <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">X</a> <a href="#" style="color: #fff;
+    padding: 6px 18px;line-height: 30px;" class="fa fa-facebook">X</a> <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Github</a> <a href="#" style="color: #fff;
+    padding: 6px 18px;line-height: 30px;" class="fa fa-facebook">Github</a> <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Linkedin</a> <a href="#" style="color: #fff;
+    padding: 6px 18px;line-height: 30px;" class="fa fa-facebook">Linkedin</a> <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Youtube</a> <a href="#" style="color: #fff;
+    padding: 6px 18px;line-height: 30px;" class="fa fa-facebook">Youtube</a> <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" class="fa fa-facebook">Email</a> 
+    padding: 6px 18px;line-height: 30px;" class="fa fa-facebook">Email</a> 
     
