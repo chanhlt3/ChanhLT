@@ -7,6 +7,8 @@
    Sometimes, I also write updates about my daily life and take random 📷photos. <p>
    I focus on "Learning, Acknowledging, and Improving" experiences and skills in both professional and personal life. 
 👏Thank you for visiting.
+inline code
+
 
 📋Categories I write about: Traveling to Phú Yên, Microsoft, AWS, VMware, Linux,...
 
