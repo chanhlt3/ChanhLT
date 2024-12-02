@@ -18,7 +18,10 @@
 
 📧You can reach me via email: chanhlt@gmail.com 
 
-💁Connect with me via: X, Linkedin, Telegram, Email, Phone <button class="zocial facebook">Sign in with Facebook</button>
+💁Connect with me via: X, Linkedin, Telegram, Email, Phone 
+
+<button class="ss-btn-twitter">Follow me on Twitter</button>
+
 
 
 
