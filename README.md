@@ -14,7 +14,9 @@
 
 📋Categories I write about: Traveling to Phú Yên, Microsoft, AWS, VMware, Linux,...
 
-👉Quick utilities I offer: gold prices,
+👉Quick utilities I offer: 
+- <a href="#">Microsoft 365 Login</a>
+- <a href="#">Gold prices</a>
 
 📧You can reach me via email: <a href="mailto:admin@chanhlt.com">admin@chanhlt.com</a> 
 
