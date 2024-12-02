@@ -31,19 +31,26 @@
 - <a href="#">Email</a>
 - <a href="#">Phone</a>
 
-<i class="fa fa-facebook-f" style="font-size:24px"></i>
-
-<button style="
-    background: #4267B2;
-    color: #fff;
-    border-radius: 5px;">
-    <a href="#" target="_blank">X</a></button>
-<button><a href="#" target="_blank">Telegram</a></button>
-<button><a href="#" target="_blank">X</a></button>
-<button type="button" class="btn btn-primary btn-sm">Small button</button>
-
-
 <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
-    padding: 6px 18px;" class="fa fa-facebook">facebook</a>
+    padding: 6px 18px;" class="fa fa-facebook">Facebook</a> <a href="#" style="color: #fff;
+    background-color: #04AA6D !important;
+    border-radius: 5px;
+    padding: 6px 18px;" class="fa fa-facebook">Telegram</a> <a href="#" style="color: #fff;
+    background-color: #04AA6D !important;
+    border-radius: 5px;
+    padding: 6px 18px;" class="fa fa-facebook">X</a> <a href="#" style="color: #fff;
+    background-color: #04AA6D !important;
+    border-radius: 5px;
+    padding: 6px 18px;" class="fa fa-facebook">Github</a> <a href="#" style="color: #fff;
+    background-color: #04AA6D !important;
+    border-radius: 5px;
+    padding: 6px 18px;" class="fa fa-facebook">Linkedin</a> <a href="#" style="color: #fff;
+    background-color: #04AA6D !important;
+    border-radius: 5px;
+    padding: 6px 18px;" class="fa fa-facebook">Youtube</a> <a href="#" style="color: #fff;
+    background-color: #04AA6D !important;
+    border-radius: 5px;
+    padding: 6px 18px;" class="fa fa-facebook">Email</a> 
+    
