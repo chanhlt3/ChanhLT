@@ -32,7 +32,13 @@
 - <a href="#">Phone</a>
 
 
-<button><a href="default.asp" target="_blank">This is a link</a></button>
+<button style="
+    background: #4267B2;
+    color: #fff;
+    border-radius: 5px;">
+    <a href="#" target="_blank">X</a></button>
+<button><a href="#" target="_blank">Telegram</a></button>
+<button><a href="#" target="_blank">X</a></button>
 <button type="button" class="btn btn-primary btn-sm">Small button</button>
 
 
