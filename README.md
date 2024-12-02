@@ -16,7 +16,7 @@
 
 👉Quick utilities I offer: 
 - <a href="#">Microsoft 365 Login</a>
-- <a href="#">Gold prices</a>
+- <a href="https://www.mihong.vn/vi/gia-vang-trong-nuoc">Gold prices</a>
 
 📧You can reach me via email: <a href="mailto:admin@chanhlt.com">admin@chanhlt.com</a> 
 
