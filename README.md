@@ -22,16 +22,7 @@
 
 📧You can reach me via email: <a href="mailto:admin@chanhlt.com">admin@chanhlt.com</a> 
 
-ℹ️Connect with me via: 
-- <a href="#">X</a>
-- <a href="#">Linkedin</a>
-- <a href="#">Telegram</a>
-- <a href="#">GitHub</a>
-- <a href="#">Youtube</a>
-- <a href="#">Email</a>
-- <a href="#">Phone</a>
-
-<a href="#" style="color: #fff;
+ℹ️Connect with me via: <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
     border-radius: 5px;
     padding: 6px 18px;line-height: 30px;" class="fa fa-facebook">Facebook</a> <a href="#" style="color: #fff;
