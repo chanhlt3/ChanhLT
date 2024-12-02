@@ -1,8 +1,6 @@
 👋Hello!<br>
 
-😊I'm Chanh, i'm from Vietnam. 
-
-🌐I am the owner of the website: <a href="#">chanhlt.com</a><br>
+😊I'm Chanh, i'm from Vietnam and my website is <a href="#">chanhlt.com</a><br>
 
 😃I have always been passionate about and interested in 💻technology and I also enjoy visiting attractive destinations.<br>
 - Some sports I often participate in are 🚴cycling, 🏃running and badminton.<br>
