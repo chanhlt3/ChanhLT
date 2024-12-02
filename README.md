@@ -4,7 +4,8 @@
 🌐I am the owner of the website: chanhlt.com.
 😃I have always been passionate about and interested in 💻technology and I also enjoy visiting attractive destinations.
 Some sports I often participate in are 🚴cycling, 🏃running and badminton. 
-Sometimes, I also write updates about my daily life and take random 📷photos. I focus on "Learning, Acknowledging, and Improving" experiences and skills in both professional and personal life. 
+Sometimes, I also write updates about my daily life and take random 📷photos. 
+I focus on "Learning, Acknowledging, and Improving" experiences and skills in both professional and personal life. 
 
 👏Thank you for visiting.
 
