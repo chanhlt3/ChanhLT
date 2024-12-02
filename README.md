@@ -20,7 +20,8 @@
 
 💁Connect with me via: X, Linkedin, Telegram, Email, Phone 
 
-<button class="ss-btn-twitter">Follow me on Twitter</button>
+<button class="ss-btn-vine">Add your text here</button>
+
 
 
 
