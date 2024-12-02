@@ -24,6 +24,7 @@
 - <a href="#">X</a>
 - <a href="#">Linkedin</a>
 - <a href="#">Telegram</a>
+- <a href="#">Github</a>
 - <a href="#">Youtube</a>
 - <a href="#">Email</a>
 - <a href="#">Phone</a>
