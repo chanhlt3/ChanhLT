@@ -16,9 +16,14 @@
 
 👉Quick utilities I offer: gold prices,
 
-📧You can reach me via email: chanhlt@gmail.com 
+📧You can reach me via email: <a href="mailto:admin@chanhlt.com">admin@chanhlt.com</a> 
 
-💁Connect with me via: <a href="#">X</a> <a href="#">Linkedin</a> <a href="#">Telegram</a> <a href="#">Email</a> <a href="#">Phone</a>
+💁Connect with me via: 
+- <a href="#">X</a>
+- <a href="#">Linkedin</a>
+- <a href="#">Telegram</a>
+- <a href="#">Email</a>
+- <a href="#">Phone</a>
 
 
 
