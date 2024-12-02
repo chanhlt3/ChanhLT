@@ -11,7 +11,6 @@
 
 👏Thank you for visiting.
 
-
 🔖Categories I write about: Traveling to Phú Yên, Microsoft, AWS, VMware, Linux,...
 
 👉Quick utilities I offer: 
@@ -19,8 +18,6 @@
 - <a href="https://www.mihong.vn/vi/gia-vang-trong-nuoc">Gold prices</a>
 
 ✅My Certificates:<a href="#"> Cisco, Microsoft, AWS</a>
-
-📧You can reach me via email: <a href="mailto:admin@chanhlt.com">admin@chanhlt.com</a> 
 
 ℹ️Connect with me via: <a href="#" style="color: #fff;
     background-color: #04AA6D !important;
