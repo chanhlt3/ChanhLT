@@ -32,6 +32,6 @@
 - <a href="#">Phone</a>
 
 
-<button type="button" class="btn btn-primary">Primary</button>
+<a class="btn btn-primary" href="#" role="button">Link</a>
 
 
