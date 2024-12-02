@@ -5,11 +5,11 @@
 😃I have always been passionate about and interested in 💻technology and I also enjoy visiting attractive destinations.<br>
 - Some sports I often participate in are 🚴cycling, 🏃running and badminton.<br>
 - Sometimes, I also write updates about my daily life and take random 📷photos. <br>
-- I focus on _**"Learning, Acknowledging, and Improving"**_ experiences and skills in both professional and personal life.
+- I focus on _**"Learning, Acknowledging and Improving"**_ experiences and skills in both professional and personal life.
 
 👏Thank you for visiting.
 
-🔖Categories I write about: **<a href="#">Photo</a>**, **<a href="#">Traveling to Phu Yen</a>**, <a href="#">Microsoft</a>, <a href="#">Linux</a>, <a href="#">Cisco</a>, <a href="#">AWS</a>, <a href="#">Virtualization</a>, <a href="#">Database</a>, <a href="#">Hardware</a>, <a href="#">Downloads</a>
+🔖Categories I write about: **<a href="#">Photo</a>**, **<a href="#">Traveling to Phu Yen</a>**, <a href="#">Microsoft</a>, <a href="#">Linux</a>, <a href="#">Cisco</a>, <a href="#">AWS</a>, <a href="#">Virtualization</a>, <a href="#">Database</a>, <a href="#">Hardware</a>, **<a href="#">Downloads</a>**
 
 👉Quick access: <a href="https://admin.microsoft.com">Microsoft 365 admin center</a>, <a href="https://portal.azure.com">Microsoft Azure</a>, <a href="https://security.microsoft.com">Microsoft Defender</a>, <a href="https://purview.microsoft.com">Microsoft Purview</a>, <a href="https://intune.microsoft.com">Microsoft Intune admin center</a>, <a href="https://entra.microsoft.com">Microsoft Entra admin center</a>, <a href="https://admin.exchange.microsoft.com">Exchange admin center</a>, <a href="https://admin.microsoft.com">SharePoint admin center</a>, <a href="https://admin.teams.microsoft.com">Microsoft Teams admin center</a>
 
@@ -21,16 +21,16 @@
     padding: 6px 18px;line-height: 50px;">Facebook</a> <a href="#" style="color: #fff;
     background-color: #24A1DE !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;">Telegram</a> <a href="#" style="color: #fff;
+    padding: 6px 18px;line-height: 50px;">Telegram</a> <a href="https://x.com/home" style="color: #fff;
     background-color: #14171A !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;">X</a> <a href="#" style="color: #fff;
+    padding: 6px 18px;line-height: 50px;">X</a> <a href="https://github.com/chanhlt3" style="color: #fff;
     background-color: #1f2328 !important;
     border-radius: 5px;
     padding: 6px 18px;line-height: 50px;" >Github</a> <a href="#" style="color: #fff;
     background-color: #0A66C2 !important;
     border-radius: 5px;
-    padding: 6px 18px;line-height: 50px;" >Linkedin</a> <a href="#" style="color: #fff;
+    padding: 6px 18px;line-height: 50px;" >Linkedin</a> <a href="https://youtube.com/@chanhlt3" style="color: #fff;
     background-color: #FF0000 !important;
     border-radius: 5px;
     padding: 6px 18px;line-height: 50px;">Youtube</a> <a href="#" style="color: #fff;
