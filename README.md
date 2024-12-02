@@ -6,7 +6,7 @@ You can reach me via email: chanhlt@gmail.com
 
 Categories I write about: Traveling to Phú Yên, Microsoft, AWS, VMware, Linux, ...
 
-
+Connect with me via: X, Linkedin, Telegram, Email, Phone
 
 👋 Hi, I’m @chanhlt. I'm from VietNam.
 - 👀 I’m interested in ...
