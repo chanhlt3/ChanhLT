@@ -31,6 +31,7 @@
 - <a href="#">Email</a>
 - <a href="#">Phone</a>
 
+<i class="fa fa-facebook-f" style="font-size:24px"></i>
 
 <button style="
     background: #4267B2;
