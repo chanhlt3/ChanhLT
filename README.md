@@ -15,7 +15,7 @@
 - <a href="#">Microsoft 365 Login</a>
 - <a href="https://www.mihong.vn/vi/gia-vang-trong-nuoc">Gold prices</a>
 
-✅My Certificates:<a href="#"> CCNA</a>, <a href="#"> AZ-104, AZ-800, AZ-801, MS-900, MD-100, MS-700 </a>, <a href="#"> AWS SAA-C03</a>
+✅My destination:<a href="#"> CCNA</a>, <a href="#"> AZ-104, AZ-800, AZ-801, MS-900, MD-100, MS-700, AZ-305, MS-102 </a>, <a href="#"> AWS SAA-C03</a>
 
 ℹ️Connect with me via: <a href="#" style="color: #fff;
     background-color: #4267B2 !important;
