@@ -32,6 +32,7 @@
 - <a href="#">Phone</a>
 
 
+<button><a href="default.asp" target="_blank">This is a link</a></button>
 <button type="button" class="btn btn-primary btn-sm">Small button</button>
 
 
