@@ -1,15 +1,15 @@
 👋Hello!<br>
 
-😊I'm Chanh, i'm from Vietnam and my website is <a href="#">chanhlt.com</a><br>
+😊I'm **Chanh**, i'm from Vietnam and my website is <a href="#">chanhlt.com</a><br>
 
 😃I have always been passionate about and interested in 💻technology and I also enjoy visiting attractive destinations.<br>
 - Some sports I often participate in are 🚴cycling, 🏃running and badminton.<br>
 - Sometimes, I also write updates about my daily life and take random 📷photos. <br>
-- I focus on "Learning, Acknowledging, and Improving" experiences and skills in both professional and personal life.
+- I focus on _**"Learning, Acknowledging, and Improving"**_ experiences and skills in both professional and personal life.
 
 👏Thank you for visiting.
 
-🔖Categories I write about: <a href="#">Photo</a>, <a href="#">Traveling to Phu Yen</a>, <a href="#">Microsoft</a>, <a href="#">Linux</a>, <a href="#">Cisco</a>, <a href="#">AWS</a>, <a href="#">Virtualization</a>, <a href="#">Database</a>, <a href="#">Hardware</a>, <a href="#">Downloads</a>
+🔖Categories I write about: **<a href="#">Photo</a>**, **<a href="#">Traveling to Phu Yen</a>**, <a href="#">Microsoft</a>, <a href="#">Linux</a>, <a href="#">Cisco</a>, <a href="#">AWS</a>, <a href="#">Virtualization</a>, <a href="#">Database</a>, <a href="#">Hardware</a>, <a href="#">Downloads</a>
 
 👉Quick access: <a href="https://admin.microsoft.com">Microsoft 365 admin center</a>, <a href="https://portal.azure.com">Microsoft Azure</a>, <a href="https://security.microsoft.com">Microsoft Defender</a>, <a href="https://purview.microsoft.com">Microsoft Purview</a>, <a href="https://intune.microsoft.com">Microsoft Intune admin center</a>, <a href="https://entra.microsoft.com">Microsoft Entra admin center</a>, <a href="https://admin.exchange.microsoft.com">Exchange admin center</a>, <a href="https://admin.microsoft.com">SharePoint admin center</a>, <a href="https://admin.teams.microsoft.com">Microsoft Teams admin center</a>
 
