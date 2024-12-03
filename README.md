@@ -1,5 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/chanhlt3/ChanhLT.com/refs/heads/main/docs/asset/images/ChanhLT%20-%20FV.png">
 
+<img src="https://raw.githubusercontent.com/chanhlt3/ChanhLT.com/refs/heads/main/docs/assets/images/ChanhLT.png" alt="Logo của trang web" />
+
 👋Hello!<br>
 
 😊I'm **Chanh**, I'm from Vietnam and my website is <a href="#">chanhlt.com</a><br>
