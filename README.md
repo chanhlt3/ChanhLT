@@ -49,38 +49,7 @@
               This is a simple website template published with Github Pages. <a href="https://github.com/cpl-makerlab/simple-website-template">Fork this repository</a> to create your own site!
             </p>
           </div>
-          
-          <div id="about" class="content-region hide">
-            <h2>About</h2>
-            <p>
-              Sed tempus urna et pharetra pharetra massa massa ultricies. Porttitor rhoncus dolor purus non enim praesent. Id aliquet risus feugiat in ante metus dictum. 
-            </p>
-          </div>
-          
-          <div id="contact" class="content-region hide">
-            <h2>Contact</h2>
-            <p>
-              Pellentesque nec nam aliquam sem et tortor consequat. Quisque sagittis purus sit amet volutpat consequat. Magna eget est lorem ipsum dolor. 
-            </p>
-          </div>
-          
-        </div>
-      </div>
-    </div>
 
-    <footer>  
-      Footer region
-    </footer>
-    
-    <!-- Load additional JS scripts here -->
-    <script type="text/javascript" src="script.js"></script>
-    
-  </body>
-</html>
-
-<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/chanhlt3/ChanhLT.com/refs/heads/main/docs/asset/images/ChanhLT%20-%20FV.png">
-
-<img src="https://raw.githubusercontent.com/chanhlt3/ChanhLT.com/refs/heads/main/docs/assets/images/ChanhLT.png" alt="Logo của trang web" />
 
 👋Hello!<br>
 
@@ -127,3 +96,38 @@
 💬Community: <a href="https://answers.microsoft.com/en-us">Microsoft Support Community</a>, <a href="https://techcommunity.microsoft.com">Microsoft Community Hub</a>, <a href="https://community.spiceworks.com">Spiceworks Community</a> 
 
 ©2024 ChanhLT.com. All Rights Reserved.
+
+
+          
+          <div id="about" class="content-region hide">
+            <h2>About</h2>
+            <p>
+              Sed tempus urna et pharetra pharetra massa massa ultricies. Porttitor rhoncus dolor purus non enim praesent. Id aliquet risus feugiat in ante metus dictum. 
+            </p>
+          </div>
+          
+          <div id="contact" class="content-region hide">
+            <h2>Contact</h2>
+            <p>
+              Pellentesque nec nam aliquam sem et tortor consequat. Quisque sagittis purus sit amet volutpat consequat. Magna eget est lorem ipsum dolor. 
+            </p>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+
+    <footer>  
+      Footer region
+    </footer>
+    
+    <!-- Load additional JS scripts here -->
+    <script type="text/javascript" src="script.js"></script>
+    
+  </body>
+</html>
+
+<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/chanhlt3/ChanhLT.com/refs/heads/main/docs/asset/images/ChanhLT%20-%20FV.png">
+
+<img src="https://raw.githubusercontent.com/chanhlt3/ChanhLT.com/refs/heads/main/docs/assets/images/ChanhLT.png" alt="Logo của trang web" />
+
