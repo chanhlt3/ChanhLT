@@ -7,7 +7,7 @@
 
 /* adding base style ---------- */
 :root {
-  --clr-bg: rgb(185, 183, 231);
+  --clr-bg: hwb(240 93% 3%);
   --clr-text: rgb(1, 15, 64);
   --clr-link: rgb(8, 56, 214);
 
@@ -39,7 +39,7 @@ h2 {
 a {
   display: inline-block;
   text-decoration: none;
-  color: var(--clr-link);
+  color: #0067b8;
 }
 
 a:hover {
@@ -47,7 +47,7 @@ a:hover {
 }
 
 img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   vertical-align: baseline;
 }
@@ -65,7 +65,7 @@ img {
 
 
 /*ends global*/
-.main{
+main{
 	width:100%;
 	height:auto;
 	padding:50px 0;
@@ -136,10 +136,13 @@ img {
 	align-items:center;
 	justify-content:space-between;
 
+	font-size: 25px;
+    padding: 0px 15px 0 0;
+
 }
 
 
-profile-pic{
+.profile-pic{
 	width:335px;
 	order:1;
 	text-align:center;
@@ -147,10 +150,10 @@ profile-pic{
 }
 
 
-profile-pic img{
+.profile-pic img{
 	width:auto;
 	height:300px;
-	box-shadow:-12px 12px 0 0 #8c81a8;
+	box-shadow:-12px 12px 0 0 #0067b8;
 	
 }
 
