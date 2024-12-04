@@ -12,6 +12,11 @@
 		  height:350px;
 		  
 		  }
+
+		  .about-me{
+
+			padding: 0px 15px 0px 0px;
+			}
   }
   
   @media screen and (min-width: 768px) {
@@ -39,6 +44,11 @@
 		  
 	  }
 	
+
+	  .about-me{
+
+		padding: 0px 15px 0px 0px;
+		}
   
 	/* resize profile picture ---------- */
   }
