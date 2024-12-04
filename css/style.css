@@ -87,6 +87,7 @@ main{
 	width:335px;
 	order:2;
 	color:var(--clr-text);
+	padding: 0px 15px 0px 0px;
 }
 
 .about-me .name{
