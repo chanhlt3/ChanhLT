@@ -5,8 +5,8 @@
  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 
 
-@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
-/* font-family: 'Dancing Script', cursive; */
+/*@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+ font-family: 'Dancing Script', cursive; */
 /* google fonts */
 
 /* adding base style ---------- */
@@ -96,7 +96,9 @@ main{
 }
 
 .about-me .name{
-	font-size:1.8rem;
+	/*font-size:1.8rem;*/
+
+	font-size:18px;
 	margin-bottom:var(--margin-bg);
 }
 
@@ -119,15 +121,20 @@ main{
 
 
 .about-me .email a{
-	font-size:0.9rem;
+/*	font-size:0.9rem;*/
+font-size:18px;
 	font-weight:500;
 	margin-top:5px;
 }
 
 
 .about-me .signature{
-	font-family:"Dancing Script", cursive;
-	font-size:2rem;
+/*	font-family:"Dancing Script", cursive;*/
+
+font-family: "Quicksand", sans-serif;
+/*	font-size:2rem;*/
+
+font-size:18px;
 	font-weight:500;
 	margin-bottom:var(--margin-bg);
 }
