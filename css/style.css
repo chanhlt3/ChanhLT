@@ -143,6 +143,7 @@ font-size:18px;
 
 .about-me .creator{
 	margin-bottom:var(--margin-bg);
+	font-weight: 500;
 }
 
 .about-me .connect{
