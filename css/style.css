@@ -30,7 +30,7 @@
 body {
  /* font-family: "Poppins", sans-serif;*/
  font-family: "Quicksand", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: normal;
   line-height: 1.5;
 
@@ -101,14 +101,14 @@ main{
 }
 
 .about-me .work-title{
-	font-weight:300;
+	font-weight:500;
 	line-height:1.6;
 	margin-bottom:var(--margin-md);
 }
 
 
 .about-me .smalltalk{
-	font-weight:300;
+	font-weight:500;
 	margin-bottom:var(--margin-bg);
 }
 
