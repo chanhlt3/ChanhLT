@@ -123,7 +123,7 @@ main{
 
 .about-me .email a{
 /*	font-size:0.9rem;*/
-font-size:16px;
+font-size:18px;
 	font-weight:500;
 	margin-top:5px;
 }
@@ -136,7 +136,7 @@ font-family:"Dancing Script", cursive;
 /*	font-size:2rem;*/
 
 
-font-size:30px;
+font-size:50px;
 	font-weight:500;
 	margin-bottom:var(--margin-bg);
 }
@@ -144,7 +144,7 @@ font-size:30px;
 .about-me .creator{
 	margin-bottom:var(--margin-bg);
 	font-weight: 500;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .about-me .connect{
