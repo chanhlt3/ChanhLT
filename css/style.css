@@ -1,182 +1,74 @@
-/*@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
- font-family: 'Poppins', sans-serif; */
+/*
 
+SMOOTH RESPONSIVE RESIZE
+Sizes based on View Width.
 
- @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+–
 
+VARIABLES
 
-@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
- /*font-family: 'Dancing Script', cursive; */
-/* google fonts */
+The min screen size is 320px.
 
-/* adding base style ---------- */
-:root {
-  --clr-bg: hwb(240 93% 3%);
-  --clr-text: rgb(1, 15, 64);
-  --clr-link: rgb(8, 56, 214);
+Setting 24px as the min font-size for <h1>.
+Setting 64px as the max font-size for <h1>.
 
-  --gap: 50px;
-  --margin-sm: 10px;
-  --margin-md: 15px;
-  --margin-bg: 30px;
-}
+The objetive is make a smooth responsive resize between min e max sizes.
+This will set the best size according screen size.
 
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
+–
+
+CALCULATING H1 SIZES
+
+At 320px screen, font-size is equal 24px (7.5vw).
+24*100/320 = 7.5vw
+
+7.5vw is the "speed" for <h1> resizing.
+
+At this speed <h1> will reach 64px at 853px.
+24*100/5 = 480px
+
+So, at 853px screen, the max font-size will be 64px.
+
+*/
 
 body {
- /* font-family: "Poppins", sans-serif;*/
- font-family: "Quicksand", sans-serif;
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 1.5;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 
-  background-color: var(--clr-bg);
-}
+	font-family: cousine, monospace;
+	margin: 40px 16px;
+  }
+  
+  h1, p {
+	max-width: 800px;
+	margin: 0 auto;  
+  }
+  
+ 
+  p {
+	color: #9E9E9E;
+	font-size: 16px;
+	font-family: 'Cousine', monospace;
+	line-height: 1.5;
+  }
+  
+  @media screen and (min-width: 320px) {
 
-h2 {
-  line-height: 1.2;
-}
+	p {
+	   font-size: 5vw;
+	}
+  }  
+  
+  @media screen and (min-width: 853px) {
 
-a {
-  display: inline-block;
-  text-decoration: none;
-  color: #0067b8;
-}
+  }  
+  
+  @media screen and (min-width: 640px) {
 
-a:hover {
-  text-decoration: underline;
-}
-
-img {
-  max-width: 80%;
-  height: auto;
-  vertical-align: baseline;
-}
-
-
-/*end base*/
-.container{
-	width:950px;
-	max-width:95%;
-	padding:0 10px;
-	margin:0 auto;
-	
-}
-
-
-
-/*ends global*/
-main{
-	width:100%;
-	height:auto;
-	padding:50px 0;
-	
-	display:flex;
-	align-items:center;
-	justify-content:center;
-	
-}
-
-
-.container{
-	display:grid;
-	grid-template-columns:repeat(1, 1fr);
-	gap:var(--gap);
-}
-
-.about-me{
-	width:335px;
-	order:1;
-	color:var(--clr-text);
-
-}
-
-.about-me .name{
-	/*font-size:1.8rem;*/
-
-	font-size:18px;
-	margin-bottom:var(--margin-bg);
-}
-
-.about-me .work-title{
-	font-weight:500;
-	line-height:1.6;
-	margin-bottom:var(--margin-md);
-}
-
-
-.about-me .smalltalk{
-	font-weight:500;
-	margin-bottom:var(--margin-bg);
-}
-
-
-.about-me .email{
-	margin-bottom:var(--margin-bg);
-	font-weight: 500;
-}
-
-
-.about-me .email a{
-/*	font-size:0.9rem;*/
-font-size:18px;
-	font-weight:500;
-	margin-top:5px;
-}
-
-
-.about-me .signature{
-font-family:"Dancing Script", cursive;
-
-/*font-family: "Quicksand", sans-serif;*/
-/*	font-size:2rem;*/
-
-
-font-size:50px;
-	font-weight:500;
-	margin-bottom:var(--margin-bg);
-}
-
-.about-me .creator{
-	margin-bottom:var(--margin-bg);
-	font-weight: 500;
-	font-size: 18px;
-}
-
-.about-me .connect{
-	width:335px;
-	display:flex;
-	align-items:center;
-	justify-content:space-between;
-
-	font-size: 25px;
-    padding: 0px 15px 0 0;
-
-}
-
-
-.profile-pic{
-	width:335px;
-	order:2;
-	text-align:center;
-	
-}
-
-
-.profile-pic img{
-	width:auto;
-	height:300px;
-	box-shadow:-12px 12px 0 0 #0067b8;
-	
-}
-
-
-
-
-/* repeated style ---------- */
-
-/* add main style from here ---------- */
+  } 
+  
+  @media screen and (min-width: 480px) {
+	p {
+	   font-size: 24px;
+	}
+  }
