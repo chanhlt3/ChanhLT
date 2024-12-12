@@ -23,8 +23,10 @@ header, footer {
   text-align: center;
 }
 
-header h2, footer p {
-  margin: 0;
+
+
+.social {
+  text-align: center;
 }
 
 .container {
@@ -35,6 +37,8 @@ header h2, footer p {
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+
 
 #vietnam {
   position: relative;
@@ -105,9 +109,8 @@ header h2, footer p {
 
 @media screen and (min-width: 1024px) {
   .container {
-    width: 60%;
+    width: 100%;
   }
 }
 
 
-table { width: 100%; border-collapse: collapse; margin-bottom: 20px; } th, td { border: 1px solid #ddd; padding: 12px; text-align: left; } th { background-color: #007BFF; color: white; } tr:nth-child(even) { background-color: #f2f2f2;
