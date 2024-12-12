@@ -6,11 +6,13 @@ body {
   margin: 0 auto;
   padding: 20px 10px;
   font-size: 18px;
+  background: azure;
 }
 
 a {
   text-decoration: inherit;
   color: #0067b8;
+
 }
 
 a:hover {
@@ -19,19 +21,52 @@ a:hover {
 }
 
 header, footer {
-  padding: 10px 0;
   text-align: center;
+}
+
+
+.about {
+  margin: 10px 0px 10px 0px;
+
+}
+
+.quick-access {
+  margin: 10px 0px 10px 0px;
+
+}
+
+.download {
+  margin: 10px 0px 10px 0px;
+
+}
+
+.tools {
+  margin: 10px 0px 10px 0px;
+
+}
+
+.learning {
+  margin: 10px 0px 10px 0px;
+
+}
+
+
+.links {
+  margin: 10px 0px 10px 0px;
+
 }
 
 
 
 .social {
   text-align: center;
+  line-height: 30px;
+  font-size: 20px;
 }
 
 .container {
   max-width: 800px;
-  background: #f5f5dc;
+  background: #fff;
   padding: 20px;
   margin: 20px auto;
   border-radius: 8px;
@@ -109,7 +144,7 @@ header, footer {
 
 @media screen and (min-width: 1024px) {
   .container {
-    width: 100%;
+    width: 95%;
   }
 }
 
