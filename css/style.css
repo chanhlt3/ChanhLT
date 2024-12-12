@@ -129,6 +129,16 @@ header, footer {
   transform: rotate(-72deg);
 }
 
+
+
+@media screen and (min-width: 320px) {
+  .container {
+    width: 88%;
+  }
+}
+
+
+
 @media screen and (min-width: 320px) {
   .container {
     width: 88%;
