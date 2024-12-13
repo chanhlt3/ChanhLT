@@ -110,7 +110,7 @@ a.nav-link {
   color: var(--light-grey-2) !important; 
 }
 .text-dark-grey {
-  color: var(--dark-grey) !important; 
+  color: #8f8c8c !important; 
 }
 .text-accent-1 {
   color: var(--accent-1) !important; 
