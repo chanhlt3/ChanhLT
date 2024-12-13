@@ -1,5 +1,17 @@
 @media screen and (min-width: 540px) {
 	/* resize the profile picture ---------- */
+		  .profile-pic{
+		  width:auto;
+  
+		  
+		  }
+  
+  
+		  .profile-pic img{
+		  width:auto;
+		  height:350px;
+		  
+		  }
 
 		  .about-me{
 
@@ -13,13 +25,24 @@
 			height:100vh;
 		}
 		
-
+		.container{
+			grid-template-columns:repeat(2, 1fr);
+			align-items:center;
+		}
   
 	/* change order of profile picture ---------- */
 	
-
+		.profile-pic{
+		  order:2;
+		  
+	  }
   
-
+  
+	  .profile-pic img{
+		  width:auto;
+		  height:auto;
+		  
+	  }
 	
 
 	  .about-me{
