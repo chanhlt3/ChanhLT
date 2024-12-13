@@ -1,232 +1,136 @@
-/*@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
- font-family: 'Poppins', sans-serif; */
 
 
- @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+/*style css*/
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
 
-
-@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
- /*font-family: 'Dancing Script', cursive; */
-/* google fonts */
-
-/* adding base style ---------- */
-:root {
-  --clr-bg: hwb(240 93% 3%);
-  --clr-text: rgb(1, 15, 64);
-  --clr-link: rgb(8, 56, 214);
-
-  --gap: 50px;
-  --margin-sm: 10px;
-  --margin-md: 15px;
-  --margin-bg: 30px;
+*:not(i) {
+    font-family: "Open Sans", sans-serif !important;;
 }
 
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+.fw-medium {
+    font-weight: 500 !important;
 }
-
+.fw-semibold {
+    font-weight: 600 !important;
+}
+.fw-extrabold {
+    font-weight: 800 !important;
+}
+.text-cursive {
+    font-family: "Sacramento", cursive !important;
+}
+html {
+    scroll-padding-top: 58px;
+}
 body {
- /* font-family: "Poppins", sans-serif;*/
- font-family: "Quicksand", sans-serif;
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 1.5;
-
-  background-color: var(--clr-bg);
+    padding-top: 58px;
+}
+section {
+    padding-top: 58px;
+    padding-bottom: 58px;
 }
 
-h2 {
-  line-height: 1.2;
+.navbar-brand {
+    border: solid var(--accent-4) 3px;
+    padding-right: 0.65em;
+    padding-left: 0.65em;
 }
 
-a {
-  display: inline-block;
-  text-decoration: none;
-  color: #0067b8;
+#Home {
+    background-image: url("https://hckkiu.github.io/resume-template/img/home-background.jpeg");
+    background-size: cover;
+    background-position: center bottom;
+    height: 70vh;
+    min-height: 400px;
+}
+#Home .btn {
+    border: solid 2px transparent;
+}
+#Home .btn:hover {
+    background-color: transparent !important;
+    border: solid 2px var(--accent-4);
+    color: var(--accent-4) !important;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
-img {
-  max-width: 80%;
-  height: auto;
-  vertical-align: baseline;
-}
-
-
-/*end base*/
-.container{
-	width:950px;
-	max-width:95%;
-	padding:0 10px;
-	margin:0 auto;
-	
+.skills-circle {
+    width: 15px; 
+    height: 15px; 
+    border-radius: 100%;
+    display: inline-block;
 }
 
 
 
-/*ends global*/
-main{
-	width:100%;
-	height:auto;
-	padding:50px 0;
-	
-	display:flex;
-	align-items:center;
-	justify-content:center;
-	
+
+
+/*color css*/
+:root {
+  --white: #fff;
+  --black: #000;
+  --light-grey: #f8f8f8;
+  --light-grey-2: #ccc;
+  --dark-grey: #666;
+  --accent-1: #2E92A9;
+  --accent-2: #9539ebdd;
+  --accent-3: #EF7365;
+  --accent-4: #f7bf30;
+  --accent-5: #ffe29a;
+}
+
+.text-white {
+  color: var(--white) !important; 
+}
+.text-black {
+  color: var(--black) !important; 
+}
+.text-light-grey {
+  color: var(--light-grey) !important; 
+}
+.text-light-grey-2 {
+  color: var(--light-grey-2) !important; 
+}
+.text-dark-grey {
+  color: var(--dark-grey) !important; 
+}
+.text-accent-1 {
+  color: var(--accent-1) !important; 
+}
+.text-accent-2 {
+  color: var(--accent-2) !important; 
+}
+.text-accent-3 {
+  color: var(--accent-3) !important; 
+}
+.text-accent-4 {
+  color: var(--accent-4) !important; 
 }
 
 
-.container{
-	display:grid;
-	grid-template-columns:repeat(1, 1fr);
-	gap:var(--gap);
+.bg-white {
+  background-color: var(--white) !important; 
 }
-
-.about-me{
-	width:335px;
-	order:1;
-	color:var(--clr-text);
-
+.bg-black {
+  background-color: var(--black) !important; 
 }
-
-.about-me .name{
-	/*font-size:1.8rem;*/
-
-	font-size:18px;
-	margin-bottom:var(--margin-bg);
+.bg-light-grey {
+  background-color: var(--light-grey) !important; 
 }
-
-.about-me .work-title{
-	font-weight:500;
-	line-height:1.6;
-	margin-bottom:var(--margin-md);
+.bg-light-grey-2 {
+  background-color: var(--light-grey-2) !important; 
 }
-
-
-.about-me .smalltalk{
-	font-weight:500;
-	margin-bottom:var(--margin-bg);
+.bg-dark-grey {
+  background-color: var(--dark-grey) !important; 
 }
-
-
-.about-me .email{
-	margin-bottom:var(--margin-bg);
-	font-weight: 500;
+.bg-accent-1 {
+  background-color: var(--accent-1) !important; 
 }
-
-
-.about-me .email a{
-/*	font-size:0.9rem;*/
-font-size:18px;
-	font-weight:500;
-	margin-top:5px;
+.bg-accent-2 {
+  background-color: var(--accent-2) !important; 
 }
-
-
-.about-me .signature{
-font-family:"Dancing Script", cursive;
-
-/*font-family: "Quicksand", sans-serif;*/
-/*	font-size:2rem;*/
-
-
-font-size:50px;
-	font-weight:500;
-	margin-bottom:var(--margin-bg);
+.bg-accent-3 {
+  background-color: var(--accent-3) !important; 
 }
-
-.about-me .creator{
-	margin-bottom:var(--margin-bg);
-	font-weight: 500;
-	font-size: 18px;
+.bg-accent-4 {
+  background-color: var(--accent-4) !important; 
 }
-
-.about-me .connect{
-	width:335px;
-	display:flex;
-	align-items:center;
-	justify-content:space-between;
-
-	font-size: 25px;
-    padding: 0px 15px 0 0;
-
-}
-
-
-.profile-pic{
-	width:335px;
-	order:2;
-	text-align:center;
-	
-}
-
-
-.profile-pic img{
-	width:auto;
-	height:300px;
-	box-shadow:-12px 12px 0 0 #0067b8;
-	
-}
-
-#vietnam {
-	position: relative;
-	background-color: #da251d;
-	width: 110px; /* Thu nhỏ lá cờ */
-	height: 70px; /* Thu nhỏ lá cờ */
-	margin: 20px auto; /* Canh giữa */
-  }
-  
-  #vietnam .star {
-	display: block;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	width: 0;
-	height: 0;
-	border-right: 33px solid transparent;
-	border-bottom: 23px solid #ff0;
-	border-left: 33px solid transparent;
-	transform: translate(-50%, -50%) rotate(36deg) scale(0.9, 0.9);
-  }
-  
-  #vietnam .star:before {
-	content: '';
-	display: block;
-	position: absolute;
-	top: -15.5px;
-	left: -21.5px;
-	height: 0;
-	width: 0;
-	border-bottom: 27px solid #ff0;
-	border-left: 10px solid transparent;
-	border-right: 10px solid transparent;
-	transform: rotate(-35deg);
-  }
-  
-  #vietnam .star:after {
-	content: '';
-	display: block;
-	position: absolute;
-	top: 2px;
-	left: -35px;
-	width: 0;
-	height: 0;
-	border-right: 33px solid transparent;
-	border-bottom: 23px solid #ff0;
-	border-left: 33px solid transparent;
-	transform: rotate(-72deg);
-  }
-  
-  
-  
-
-
-/* repeated style ---------- */
-
-/* add main style from here ---------- */
