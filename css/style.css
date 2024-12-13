@@ -52,8 +52,8 @@ section {
 }
 #Home .btn:hover {
     background-color: transparent !important;
-    border: solid 2px var(--accent-4);
-    color: var(--accent-4) !important;
+    border: solid 2px #0067b8;
+    color: #0067b8 !important;
 }
 
 .skills-circle {
