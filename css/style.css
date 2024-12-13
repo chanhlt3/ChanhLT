@@ -41,7 +41,8 @@ section {
 }
 
 #Home {
-    background-image: url("https://raw.githubusercontent.com/chanhlt3/ChanhLT.com/refs/heads/main/img/Mui%20dien.jpeg");
+    /*background-image: url("https://raw.githubusercontent.com/chanhlt3/ChanhLT.com/refs/heads/main/img/Mui%20dien.jpeg");*/
+    background:#f2f2f2;
     background-size: cover;
     background-position: center bottom;
     height: 70vh;
