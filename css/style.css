@@ -33,9 +33,9 @@ section {
 
 .navbar-brand {
   /*  border: solid var(--accent-4) 3px;*/
-  border-top: 5px solid var(--accent-4) !important;
-  border-left: 5px solid var(--accent-4) !important;
-  border-bottom: 5px solid var(--accent-4) !important;
+  border-top: 5px solid #0067b8 !important;
+  border-left: 5px solid #0067b8 !important;
+  border-bottom: 5px solid #0067b8 !important;
     padding-right: 0.65em;
     padding-left: 0.65em;
 }
@@ -65,10 +65,21 @@ section {
 
 
 section#Contact {
-  border-top: 1px solid var(--accent-4) !important;
+
+   border: 2px solid var(--accent-4) !important;
+
+  /*border-top: 1px solid var(--accent-4) !important;
   border-left: 1px solid var(--accent-4) !important;
-  border-bottom: 1px solid var(--accent-4) !important;
+  border-bottom: 1px solid var(--accent-4) !important;*/
 }
+
+
+a.nav-link {
+  font-size: 18px;
+  font-weight: 700;
+  color: #333;
+}
+
 
 
 /*color css*/
@@ -110,7 +121,7 @@ section#Contact {
   color: var(--accent-3) !important; 
 }
 .text-accent-4 {
-  color: var(--accent-4) !important; 
+  color: #0067b8 !important; 
 }
 
 
