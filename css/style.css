@@ -84,6 +84,12 @@ a.nav-link {
 }
 
 
+.px-5 {
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+}
+
+
 
 /*color css*/
 :root {
