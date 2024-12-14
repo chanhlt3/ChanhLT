@@ -31,6 +31,8 @@ section {
     padding-bottom: 58px;
 }
 
+
+
 .navbar-brand {
   /*  border: solid var(--accent-4) 3px;*/
   border-top: 5px solid #0067b8 !important;
@@ -156,4 +158,3 @@ a.nav-link {
 
 
 
-#vietnam-flag { position: relative; background-color: #da251d; width: 300px; height: 200px; margin: 20px; } #vietnam-flag .star { position: absolute; top: 50%; left: 50%; width: 0; height: 0; border-right: 40px solid transparent; border-bottom: 28px solid #ff0; border-left: 40px solid transparent; transform: translate(-50%, -50%) rotate(35deg); } #vietnam-flag .star:before { content: ''; position: absolute; top: -28px; left: -24px; width: 0; height: 0; border-right: 24px solid transparent; border-bottom: 20px solid #ff0; border-left: 24px solid transparent; transform: rotate(-70deg); } #vietnam-flag .star:after { content: ''; position: absolute; top: 0; left: -24px; width: 0; height: 0; border-right: 24px solid transparent; border-bottom: 20px solid #ff0; border-left: 24px solid transparent; transform: rotate(-140deg); }
